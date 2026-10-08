@@ -1,0 +1,290 @@
+{
+  "acer": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "acerpure": [
+    "AC",
+    "TV",
+    "Microwave"
+  ],
+  "aiwa": [
+    "TV",
+    "Microwave"
+  ],
+  "akai": [
+    "TV",
+    "Microwave"
+  ],
+  "bajaj": [
+    "AC",
+    "Microwave"
+  ],
+  "blue-star": [
+    "AC",
+    "Refrigerator",
+    "Microwave"
+  ],
+  "bosch": [
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "bpl": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "carrier": [
+    "AC",
+    "Microwave"
+  ],
+  "daewoo": [
+    "Washing Machine",
+    "Microwave"
+  ],
+  "daikin": [
+    "AC",
+    "Microwave"
+  ],
+  "electrolux": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "faber": [
+    "Microwave"
+  ],
+  "godrej": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "haier": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "havells": [
+    "AC",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "hisense": [
+    "AC",
+    "Refrigerator",
+    "TV",
+    "Microwave"
+  ],
+  "hitachi": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "hyundai": [
+    "TV",
+    "Microwave"
+  ],
+  "ifb": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "iffalcon": [
+    "TV",
+    "Microwave"
+  ],
+  "intex": [
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "kelvinator": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "kenstar": [
+    "AC",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "kodak": [
+    "TV",
+    "Microwave"
+  ],
+  "koryo": [
+    "Microwave"
+  ],
+  "liebherr": [
+    "Refrigerator",
+    "Microwave"
+  ],
+  "lloyd": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "mi": [
+    "TV",
+    "Microwave"
+  ],
+  "micromax": [
+    "TV",
+    "Microwave"
+  ],
+  "midea": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "mitsubishi": [
+    "AC",
+    "Microwave"
+  ],
+  "morphy-richards": [
+    "Microwave"
+  ],
+  "motorola": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "o-general": [
+    "AC",
+    "Microwave"
+  ],
+  "oneplus": [
+    "TV",
+    "Microwave"
+  ],
+  "onida": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "panasonic": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "philips": [
+    "TV",
+    "Microwave"
+  ],
+  "redmi": [
+    "TV",
+    "Microwave"
+  ],
+  "samsung": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "sansui": [
+    "AC",
+    "TV",
+    "Microwave"
+  ],
+  "sanyo": [
+    "TV",
+    "Microwave"
+  ],
+  "sharp": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "siemens": [
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "sony": [
+    "TV",
+    "Microwave"
+  ],
+  "tcl": [
+    "AC",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "thomson": [
+    "Washing Machine",
+    "Microwave"
+  ],
+  "toshiba": [
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "videocon": [
+    "Refrigerator",
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "voltas-beko": [
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "voltas": [
+    "AC",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "vu": [
+    "TV",
+    "Microwave"
+  ],
+  "vw": [
+    "Washing Machine",
+    "TV",
+    "Microwave"
+  ],
+  "westinghouse": [
+    "Microwave"
+  ],
+  "whirlpool": [
+    "AC",
+    "Refrigerator",
+    "Washing Machine",
+    "Microwave"
+  ],
+  "white-westinghouse": [
+    "Washing Machine",
+    "Microwave"
+  ],
+  "xiaomi": [
+    "TV",
+    "Microwave"
+  ]
+}
